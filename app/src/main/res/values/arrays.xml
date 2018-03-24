@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sp_link">
+        <item></item>
+        <item>流转岗签收</item>
+        <item>出件岗签收</item>
+        <item>审批部门签收</item>
+        <item>收件岗签收</item>
+    </string-array>
+
+</resources>

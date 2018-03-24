@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#13573b</color>
+    <color name="colorPrimaryDark">#0f4630</color>
+    <color name="colorAccent">#32b16c</color>
+
+    <color name="main_blue">#1d9865</color>
+    <color name="main_blue_pressed">#1d9865</color>
+    <color name="color_black_blue">#32b16c</color>
+    <color name="color_green">#6ac20b</color>
+    <color name="light_green">#C7EEC3</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_gray">#999999</color>
+    <color name="color_gray_enable">#FF888888</color>
+    <color name="main_gray">#EEEEEE</color>
+    <color name="color_blue_green">#22b9b2</color>
+    <color name="color_blue_green_pressed">#1FA6A0</color>
+    <color name="color_red">#f86049</color>
+    <color name="color_red_pressed">#df5642</color>
+    <color name="color_yellow">#e9b11c</color>
+    <color name="color_yellow_pressed">#d19f19</color>
+    <color name="color_black">#000000</color>
+
+    <!-- 透明 -->
+    <color name="transparent">#00000000</color>
+    <color name="translucent">#88ffffff</color>
+    <color name="transblack">#88000000</color>
+
+    <color name="color_menu_line">#D8D8D8</color>
+
+
+    <color name="bg_common_dialog">#a4121212</color>
+</resources>
